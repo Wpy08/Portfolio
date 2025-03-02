@@ -5,12 +5,12 @@
 
 根據您的需求，請下載相應的壓縮檔：
 
-僅含執行檔（.exe）
+✅僅含執行檔（.exe）
 - Magic Number Forest A Learning Tool for 9x9 Multiplication.zip：九九乘法學習工具
 - dict.zip：字典應用
 - members.zip：會員註冊系統
 
-含程式碼與執行檔（code + exe）
+✅含程式碼與執行檔（code + exe）
 - Magic Number Forest A Learning Tool for 9x9 Multiplication(code,exe).zip：九九乘法學習工具（包含程式碼與可執行檔）
 - dict(code,exe).zip：字典應用（包含程式碼與可執行檔）
 - members(code,exe).zip：會員註冊系統（包含程式碼與可執行檔）
